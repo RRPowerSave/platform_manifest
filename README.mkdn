@@ -1,44 +1,21 @@
-![](https://i.imgsafe.org/678946f7a2.png)
-
-
-Resurrection Remix OS Nougat Source 2017
+Resurrection Remix OS Nougat Source 2017 - PowerSave MOD
 ===================
 
-[Crowdin for translations](https://crowdin.com/project/resurrectionremix/)
+This is only a MOD of the original Resurrection Remix ROM. 
 
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/resurrectionremix/localized.svg)](https://crowdin.com/project/resurrectionremix)
+If you are looking for an original Resurrection Remix sources visit
 
+https://github.com/ResurrectionRemix
 
-Rom Downloads
-===================
-
-[![Download Resurrection Remix OS](https://i.imgsafe.org/675c1f407f.png)](https://sourceforge.net/projects/resurrectionremix/files/?source=navbar)
-
-[![Download Resurrection Remix 
-OS](https://img.shields.io/sourceforge/dd/resurrectionremix.svg)](https://sourceforge.net/projects/resurrectionremix/files/)
-
-[![Download Resurrection Remix 
-OS](https://img.shields.io/sourceforge/dw/resurrectionremix.svg)](https://sourceforge.net/projects/resurrectionremix/files/)
-
-[![Download Resurrection Remix 
-OS](https://img.shields.io/sourceforge/dm/resurrectionremix.svg)](https://sourceforge.net/projects/resurrectionremix/files/)
-
-[![Download Resurrection Remix 
-OS](https://img.shields.io/sourceforge/dt/resurrectionremix.svg)](https://sourceforge.net/projects/resurrectionremix/files/)
-
-Social Media
-===================
-
-[![](https://i.imgsafe.org/67ed4ee248.png)](https://plus.google.com/communities/109352646351468373340) [![](https://i.imgsafe.org/67ed3f229f.png)](https://www.facebook.com/resurrectionremixrom) [![](https://i.imgsafe.org/67ed596e9e.png)](https://twitter.com/)
 
 Getting Started
 ---------------
-To get started with building from Resurrection Remix sources, you'll need to get
+To get started with building from Resurrection Remix PowerSvae MOD sources, you'll need to get
 familiar with [Establishing a build environment](http://source.android.com/source/initializing.html).
 
-How to build Resurrection Remix ROM for your device - Tutorial
+How to build Resurrection Remix PowerSvae MOD for your device - Tutorial
 --------
-### New way to set up and build Resurrection Remix.
+### New way to set up and build Resurrection Remix PowerSave MOD.
 
 ##### Refer to [scripts](https://github.com/akhilnarang/scripts) to setup build env
 
@@ -107,21 +84,21 @@ Alright, so now we’re getting there. I have outlined the basics of what we’r
 
 ##### Initializing the RR repo and downloading the manifest
 
-      $  repo init -u https://github.com/ResurrectionRemix/platform_manifest.git -b nougat
+      $  repo init -u https://github.com/RRPowerSave/platform_manifest.git -b nougat
 
 ##### Syncing the source
 [Hint: This might take a long time as the source is ~20GB]
 
       $  repo sync -f --force-sync --no-clone-bundle
 
-###Building the Resurrection Remix ROM
+###Building the Resurrection Remix PowerSave MOD 
 - Preparing Required Binaries and Device Drivers
 - Setting Up CCache (Optional)
 - Building Resurrection Remix
 
 Congratulations on the succesfull build initialization! Now, we shall go ahead and prepare to build for your device!
 
-##### Preparing Resurrection Remix ROM for devices
+##### Preparing Resurrection Remix PowerSave MOD for devices
 - Follow the AOSP Porting Instructions stated here to prepare the proprietary files for building for your device: (http://xda-university.com/as-a-developer/porting-aosp-roms-using-source-code)
 
 ##### Setting Up CCache

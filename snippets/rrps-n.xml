@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="android" name="platform_manifest" remote="rrps" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="rrps" />
+  <project path="packages/apps/Settings" name="Resurrection_packages_apps_Settings" remote="rrps" />
+</manifest>

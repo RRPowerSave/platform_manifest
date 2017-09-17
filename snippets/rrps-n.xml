@@ -3,4 +3,7 @@
   <project path="android" name="platform_manifest" remote="rrps" />
   <project path="frameworks/base" name="android_frameworks_base" remote="rrps" />
   <project path="packages/apps/Settings" name="Resurrection_packages_apps_Settings" remote="rrps" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
+  <project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" />
+  <project path="packages/apps/ResurrectionOTA" name="packages_apps_ResurrectionOTA" remote="rrps" />
 </manifest>
